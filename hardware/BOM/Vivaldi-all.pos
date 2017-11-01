@@ -1,0 +1,7 @@
+### Module positions - created on Mon 30 Oct 2017 03:52:44 PM CET ###
+### Printed by Pcbnew version pcbnew (2013-june-11)-stable
+## Unit = inches, Angle = deg.
+## Side : All
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+J1       SMA_H            SMA_H               7.1292    -5.8887     180.0    F.Cu
+## End
